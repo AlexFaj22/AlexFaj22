@@ -4,13 +4,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=I'm%20a%20Current%20University%20of%20Bath%20Student%20and%20aspiring%20software%20engineer" alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **A real-time mobile fitness tracker**  
 💬 &nbsp;Ask me about **Anything, always interested to connect**  
 😄 &nbsp;Pronouns: **He/Him**
 
